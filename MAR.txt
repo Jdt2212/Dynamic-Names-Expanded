@@ -1,2 +1,0 @@
-1947 = "Chindy"
-4512 = "Bhadoch"
