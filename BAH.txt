@@ -1,2 +1,0 @@
-545 = "Daulatabad"
-1948 = "Muhammadbad"
