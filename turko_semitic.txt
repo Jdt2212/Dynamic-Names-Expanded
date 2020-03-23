@@ -1,0 +1,3 @@
+534 = "Qaliqut"
+572 = "Kalanpu"
+1248 = "Dibiyat"
