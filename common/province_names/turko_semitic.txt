@@ -63,5 +63,7 @@
 2755 = "Madinat Salim"
 
 534 = "Qaliqut"
+597 = "Jauhar"
 572 = "Kalanpu"
 1248 = "Dibiyat"
+2394 = "Kalahbar"
