@@ -65,5 +65,6 @@
 534 = "Qaliqut"
 597 = "Jauhar"
 572 = "Kalanpu"
+652 = "Majindenao"
 1248 = "Dibiyat"
 2394 = "Kalahbar"
