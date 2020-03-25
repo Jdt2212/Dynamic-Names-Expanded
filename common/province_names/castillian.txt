@@ -225,3 +225,4 @@
 2698 = "San Carlos"
 2699 = "Bicol"
 2700 = "Panay"
+4352 = "Cebu"
