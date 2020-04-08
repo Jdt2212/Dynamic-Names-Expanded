@@ -90,13 +90,17 @@
 2469 = "Mazagão"
 2999 = "Ormuz" 
 
-#India
+534 = "Calicut"
+535 = "Cochin"
+536 = "Madure"
 537 = "Coulão"
+540 = "Sao Tome"
 568 = "Porto Grande"
 572 = "Colombo"
 1248 = "Maldiva"
 2099 = "Candea"
 2100 = "Jaffnapatao"
 4413 = "Cananor"
+4416 = "Trincumbar"
 4475 = "Fatiabas"
 4477 = "Porto Pequeno"

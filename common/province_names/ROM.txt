@@ -334,5 +334,6 @@
 161 = "Targoviste"
 1756 = "Moesia"
 
-#India
-4512 = "Bargosa"
+
+1233 = "Oasis Magna" #Kharga
+4512 = "Bargosa" #Bharuch
