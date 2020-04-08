@@ -1,71 +1,42 @@
-285 = "Cafa"
-
-28 = "Nylandia" #Nyland
-2100 = "Jafanapatan" #Jaffna
-4409 = "Trinquilimala" #Trincomalee
-4415 = "Negapatan" #Nagapattinam
-
-#Switzerland
-165 = "Berna"
-#Waldstätte is to remain, as no translations could be found.
-1869 = "Zurigo"
-1870 = "San Gallo"
-1873 = "Grigoni"
-
-#1444 Austria
-110 = "Trent"
-73 = "Tirolo"
-1768 = "Luenzina"
-129 = "Carniola"
-128 = "Carinzia"
-#Graz is to remain, as no translations could be found.
-#Stiermark remains.
-#Linz too.
-134 = "Vienna"
-
-#Croatia
-131 = "Zagabria"
-#Lika remains as the Italian name
-152 = "Varasdino"
-1767 = "Slavonia"
-4173 = "Sirmia" 
-136 = "Dalmazia"
-137 = "Ragusa"
-
-#Bosnia
-139 = "Erzegovina"
-140 = "Bosnia"
-1828 = "Parti inferiori"
-1831 = "Travunia"
-3002 = "Saraievo"
-
-#Serbia (also Montenegro and North Macedonia)
-4239 = "Belgrado"
-141 = "Semendria"
-3000 = "Nissa"
-1827 = "Rascia"
-1766 = "Cossovo"
-138 = "Montenegro"
-3001 = "Scupi"
-
-#Albania
-4174 = "Durazzo"
-4175 = "Scutari"
 143 = "Valona"
-
-#Greece
-145 = "Morea"
-1773 = "Achaia"
-163 = "Candia"
-320 = "Rodi"
-164 = "Nasso"
+285 = "Cafa"
 2348 = "Scio"
 3003 = "Negroponte"
-144 = "Epiro"
-147 = "Tessaglia"
-1853 = "Kastoria"
-148 = "Macedonia"
-149 = "Adrianopoli"
-1764 = "Burgas"
-151 = "Constantinopoli"
-320 = "Rodi"
+4174 = "Durazzo"
+4175 = "Scutari"
+
+28 = "Nylandia" #Nyland
+73 = "Tirolo" #Tirol
+128 = "Carinzia" #Karnten
+129 = "Carniola" #Krain
+131 = "Zagabria" #Zagreb
+134 = "Vienna" #Wien
+136 = "Dalmazia" #Dalmatia
+138 = "Montenegro" #Crna Gora/Zeta
+139 = "Erzegovina" #Hum/Herzegovina
+141 = "Semendria" #Smeredevo
+144 = "Epiro" #Epirus
+147 = "Tessaglia" #Thessaly
+149 = "Adrianopoli" #Adrianpole/Edirne
+151 = "Constantinopoli" #Constantinople
+152 = "Varasdino" #Varasd
+163 = "Candia" #Crete
+164 = "Nasso" #Naxos
+165 = "Berna" #Bern
+320 = "Rodi" #Rhodes
+1766 = "Cossovo" #Kosovo
+1768 = "Luenzina" #Lienz
+1773 = "Achaia" #Achaea
+1827 = "Rascia" #Raska
+1828 = "Parti inferiori" #Donji Kraji
+1869 = "Zurigo" #Zurich
+1870 = "San Gallo" #St. Gallen
+1873 = "Grigoni" #Grabunden
+2100 = "Jafanapatan" #Jaffna
+3000 = "Nissa" #Nis
+3001 = "Scupi" #Skopje
+3002 = "Saraievo" #Visoki
+4173 = "Sirmia" #Syrmia 
+4239 = "Belgrado" #Belgrade
+4409 = "Trinquilimala" #Trincomalee
+4415 = "Negapatan" #Nagapattinam
