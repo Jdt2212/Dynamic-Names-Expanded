@@ -72,7 +72,7 @@
 4141 = "Ditmersken"
 4165 = "Gønge"
 
-534 = "Calicut"
-537 = "Oddeway Torre"
-543 = "Masulipatnam"
-4477 = "Dannemarksnagore"
+534 = "Calicut" #Kozhikode
+537 = "Oddeway Torre" #Venad
+543 = "Masulipatnam" #Velanadu
+4477 = "Dannemarksnagore" #Satgaon

@@ -1,6 +1,6 @@
-596 = "Malakka"
-1248 = "Palativu"
-2100 = "Yalppanam"
-2394 = "Kadaram"
-4409 = "Thirukonamalai"
-4352 = "Singapur"
+596 = "Malakka" #Malacca
+1248 = "Palativu" #Maldives
+2100 = "Yalppanam" #Jaffna
+2394 = "Kadaram" #Kedah
+4409 = "Thirukonamalai" #Trincomalee
+4352 = "Singapur" #Singhapala/Cebu

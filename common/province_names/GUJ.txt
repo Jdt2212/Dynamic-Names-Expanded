@@ -1,2 +1,2 @@
-2054 = "Ahmadabad"
-2056 = "Mahmudabad"
+2054 = "Ahmadabad" #Kavarnati
+2056 = "Mahmudabad" #Champaner

@@ -1,2 +1,2 @@
-1947 = "Chindy"
-4512 = "Bhadoch"
+1947 = "Chindy" #Gingee
+4512 = "Bhadoch" #Bharuch

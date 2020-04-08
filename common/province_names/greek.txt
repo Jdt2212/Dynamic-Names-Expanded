@@ -17,7 +17,8 @@
 2343 = "Adrramyta"
 2447 = "Tamatarha"
 
-#India
-538 = "Korevora"
-1248 = "Maniolae"
-4512 = "Bargosa"
+
+538 = "Korevora" #Karur
+1248 = "Maniolae" #Maldives
+2750 = "Philippolis" #Plovdid
+4512 = "Bargosa" #Bharuch

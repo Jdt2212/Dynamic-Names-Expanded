@@ -80,13 +80,13 @@
 4231 = Pingshan
 4232 = Jiangjie
 
-535 = "Keyii"
-596 = "Maliujia"
-597 = "Pili"
-637 = "Api"
-652 = "Minto-lang"
+535 = "Keyii" #Kochi
+596 = "Maliujia" #Malacca
+597 = "Pili" #Johor
+637 = "Api" #Jesselton
+652 = "Minto-lang" #Maguindanao
 656 = "Mali-lu"
-2698 = "Fengjiashilan"
-2702 = "Puotuan"
-4350 = "Mayi"
-4353 = "San-ma-lan"
+2698 = "Fengjiashilan" #Pangasinan
+2702 = "Puotuan" #Butuan
+4350 = "Mayi" #Mindoro/Ma-i
+4353 = "San-ma-lan" #Leyte

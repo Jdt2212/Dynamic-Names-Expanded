@@ -1,4 +1,5 @@
 593 = "Nokor Sri Thommareach"
 612 = "Koreach"
 2383 = "Sri Nakorn Lamduan"
-2388 = "Song Khwae"
+
+2388 = "Song Khwae" #Phitsanulok

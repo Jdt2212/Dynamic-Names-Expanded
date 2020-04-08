@@ -1,5 +1,5 @@
-656 = "Maynila"
-2698 = "Binalatongan"
-2699 = "Ibalong"
-2700 = "Aninipay"
-4352 = "Singhapala"
+656 = "Maynila" #Manila
+2698 = "Binalatongan" #Pangasinan
+2699 = "Ibalong" #Bikol 
+2700 = "Aninipay" #Panay
+4352 = "Singhapala" #Cebu

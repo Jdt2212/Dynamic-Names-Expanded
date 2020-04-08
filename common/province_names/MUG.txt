@@ -1,5 +1,5 @@
-522 = "Shahjahanabad"
-1947 = "Nusratgadh"
-2034 = "Muhiyabad"
-2035 = "Gulbarga"
-4433 = "Gulshanabad"
+522 = "Shahjahanabad" #Delhi
+1947 = "Nusratgadh" #Gingee
+2034 = "Muhiyabad" #Pune
+2035 = "Gulbarga" #Kalaburagi
+4433 = "Gulshanabad" #Nashik

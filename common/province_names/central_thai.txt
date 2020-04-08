@@ -1,13 +1,15 @@
-582 = "Mueang Yang"
 583 = "Saen Wi"
 587 = "Chiang Tung"
-588 = "Mueang Nai"
-594 = "Pattani"
-597 = "Ganggayu"
-660 = "Sipsong Panna"
 1823 = "Chiang Taeng"
-2394 = "Sai Buri"
-2396 = "Mueang Kawng"
-2401 = "Mueang Pai"
 2404 = "Marit"
-4406 = "Mueang Kung"
+
+
+582 = "Mueang Yang" #Mong Yang
+588 = "Mueang Nai" #Mong Nai
+594 = "Pattani" #Patani
+597 = "Ganggayu" #Johor
+660 = "Sipsong Panna" #Sipsongbanna
+2394 = "Sai Buri" #Kedah
+2396 = "Mueang Kawng" #Mong Kawng
+2401 = "Mueang Pai" #Mong Pai
+4406 = "Mueang Kung" #Mong Kung

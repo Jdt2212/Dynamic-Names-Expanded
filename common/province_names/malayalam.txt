@@ -1,2 +1,2 @@
-531 = "Mangalapuram"
-1248 = "Maladweepu"
+531 = "Mangalapuram" #Mangalore
+1248 = "Maladweepu" #Maldives

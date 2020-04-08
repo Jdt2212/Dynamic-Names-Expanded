@@ -62,10 +62,10 @@
 2754 = "Al-Mansha"
 2755 = "Madinat Salim"
 
-534 = "Qaliqut"
-597 = "Jauhar"
-572 = "Kalanpu"
-652 = "Majindenao"
-1201 = "Zinjibar"
-1248 = "Dibiyat"
-2394 = "Kalahbar"
+534 = "Qaliqut" #Calicut
+597 = "Jauhar" #Johor
+572 = "Kalanpu" 
+652 = "Majindenao" #Maguindanao
+1201 = "Zinjibar" #Zanzibar
+1248 = "Dibiyat" #Maldives
+2394 = "Kalahbar" #Calabar

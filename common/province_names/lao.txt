@@ -1,3 +1,4 @@
-660 = "Sipsongphanna"
 1823 = "Xiang Taeng"
 2371 = "Sipsongchutai"
+
+660 = "Sipsongphanna" #Sibsongbanna

@@ -222,8 +222,8 @@
 501 = "Barbado"
 
 
-656 = "Manila"
-2698 = "San Carlos"
-2699 = "Bicol"
-2700 = "Panay"
-4352 = "Cebu"
+656 = "Manila" #Maynila
+2698 = "San Carlos" #Pangasinan
+2699 = "Bicol" #Bikol
+2700 = "Panay" #Aninipay
+4352 = "Cebu" #Singhpala
