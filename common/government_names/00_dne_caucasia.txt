@@ -1,0 +1,99 @@
+shirvan_titles = {
+	rank = {
+		1 = EMIRATE
+		2 = SULTANATE
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = SHIRVANSHAH
+		2 = SHIRVANSHAH
+		3 = SHIRVANSHAH
+	}
+
+	ruler_female = {
+		1 = EMIR
+		2 = SULTANA
+		3 = GREAT_SULTANA
+	}
+	
+	consort_male = {
+		1 = EMIR_CONSORT
+		2 = SULTAN_CONSORT
+		3 = PADISHAH_CONSORT
+	}
+	
+	consort_female = {
+		1 = EMIRA
+		2 = SULTANA
+		3 = SULTANA
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = SHAHZADE
+		3 = SHAHZADE
+	}
+	
+	heir_female = {
+		1 = HEIR_fem
+		2 = SHAHZADE
+		3 = SHAHZADE
+	}
+
+	
+	trigger = {
+		tag = SRV
+		government = monarchy
+	}
+}
+
+gazikumukh_titles = {
+	rank = {
+		1 = SHAMKHALATE
+		2 = GRANDSHAMKHALATE
+		3 = GREATSHAMKHALATE
+	}
+
+	ruler_male = {
+		1 = SHAMKHAL
+		2 = GRANDSHAMKHAL
+		3 = GREATSHAMKHAL
+	}
+
+	ruler_female = {
+		1 = EMIR
+		2 = SULTANA
+		3 = GREAT_SULTANA
+	}
+	
+	consort_male = {
+		1 = SHAMKHAL
+		2 = GRANDSHAMKHAL
+		3 = GREATSHAMKHAL
+	}
+	
+	consort_female = {
+		1 = EMIRA
+		2 = SULTANA
+		3 = SULTANA
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = SHAHZADE
+		3 = SHAHZADE
+	}
+	
+	heir_female = {
+		1 = HEIR_fem
+		2 = SHAHZADE
+		3 = SHAHZADE
+	}
+
+	
+	trigger = {
+		tag = GAZ
+		government = monarchy
+	}
+}
