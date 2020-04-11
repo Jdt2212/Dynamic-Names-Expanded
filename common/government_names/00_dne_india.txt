@@ -251,3 +251,27 @@ sadiya_titles = {
 		religion = hinduism
 	}
 }
+
+calicut_titles = {
+	rank = {
+		1 = PRINCEDOM
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+	
+	ruler_male = {
+		1 = SAMOOTHIRI
+		2 = GRANDSAMOOTHIRI
+		3 = GREATSAMOOTHIRI
+	}
+	
+	consort_male = {
+		1 = SAMOOTHIRI
+		2 = GRANDSAMOOTHIRI
+		3 = GREATSAMOOTHIRI
+	}
+	
+	trigger = {
+		tag = MAB
+		religion = hinduism
+	}
