@@ -105,7 +105,7 @@
 2100 = "Jafanapatan" #Jaffna
 2325 = "El Alamein" #Tarrana
 2326 = "Bardia" #Berdiyah
-2448 = "Fasania" #Fezzan
+2448 = "Murzuch" #Fezzan
 2449 = "Giofra" #Jufrah
 2450 = "Gadames" #Ghadames
 2451 = "Thubactis" #Thubaqt
@@ -114,7 +114,6 @@
 2455 = "Biserta" #Bizerte
 2458 = "Le Hodna" #Hodna
 2473 = "Susa" #Soussa
-2474 = "Murzuch" #Tajhari
 2750 = "Filippopoli" #Plovdiv
 2753 = "Narbona" #Narbonnais
 2754 = "La Mancia" La Mancha
