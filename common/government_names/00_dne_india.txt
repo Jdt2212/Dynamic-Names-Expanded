@@ -61,7 +61,7 @@ bundi_titles = {
 	}
 }
 
-bikaner_titles = { #Both Bikaner and Jodhpur states had a shared lineage and had the same ruler titles
+bikaner_titles = { #Every Rathore kingdom (Bikaner, Marwar, and Idar the only ones in vanilla)
 	rank = {
 		1 = PRINCEDOM
 		2 = KINGDOM
@@ -84,6 +84,8 @@ bikaner_titles = { #Both Bikaner and Jodhpur states had a shared lineage and had
 		OR = {
 			tag = JAN
 			tag = MAW
+			tag = IDR
+			dynasty = "Rathore"
 		}	
 		religion = hinduism
 	}
