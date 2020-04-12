@@ -227,3 +227,5 @@
 2699 = "Bicol" #Bikol
 2700 = "Panay" #Aninipay
 4352 = "Cebu" #Singhpala
+4561 = "Tetuàn" #Tétouan
+4564 = "Casablanca" #Anfa
