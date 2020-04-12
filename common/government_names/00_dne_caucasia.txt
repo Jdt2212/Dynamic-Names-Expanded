@@ -51,13 +51,13 @@ shirvan_titles = {
 gazikumukh_titles = {
 	rank = {
 		1 = SHAMKHALATE
-		2 = GRANDSHAMKHALATE
+		2 = SHAMKHALATE
 		3 = GREATSHAMKHALATE
 	}
 
 	ruler_male = {
 		1 = SHAMKHAL
-		2 = GRANDSHAMKHAL
+		2 = SHAMKHAL
 		3 = GREATSHAMKHAL
 	}
 
@@ -69,7 +69,7 @@ gazikumukh_titles = {
 	
 	consort_male = {
 		1 = SHAMKHAL
-		2 = GRANDSHAMKHAL
+		2 = SHAMKHAL
 		3 = GREATSHAMKHAL
 	}
 	

@@ -136,7 +136,7 @@ mewat_titles = {
 	}
 
 	trigger = {
-		tag = JSL
+		tag = MEW
 		religion_group = muslim
 	}
 }
@@ -150,7 +150,7 @@ meitei_titles = {
 	
 	ruler_male = {
 		1 = NINGTHEM
-		2 = GRANDNINGTHEM
+		2 = NINGTHEM
 		3 = GREATNINGTHEM
 	}
 	
@@ -261,13 +261,13 @@ calicut_titles = {
 	
 	ruler_male = {
 		1 = SAMOOTHIRI
-		2 = GRANDSAMOOTHIRI
+		2 = SAMOOTHIRI
 		3 = GREATSAMOOTHIRI
 	}
 	
 	consort_male = {
 		1 = SAMOOTHIRI
-		2 = GRANDSAMOOTHIRI
+		2 = SAMOOTHIRI
 		3 = GREATSAMOOTHIRI
 	}
 	
