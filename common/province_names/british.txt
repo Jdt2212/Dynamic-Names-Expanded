@@ -239,3 +239,37 @@
 4495 = "Fyzabad" #Faizabad
 4509 = "Kahror" #Karur
 4512 = "Broach" #Bharuch
+
+#Australia
+
+1085 = "Tasmania"
+1087 = "Melbouurne"
+2734 = "Cape Howe"
+1090 = "Sydney
+2735 = "Portland"
+1089 = "Wellington Valley"
+1088 = "Werracknebeal"
+1086 = "Adelaide"
+2736 = "Port Pirie"
+1092 = "Ballina"
+1091 = "Tamworth"
+1094 = "Brisbane"
+1093 = "Toowoomba
+2733 = "Gladstone"
+2732 = "Townsville"
+2731 = "Cooktown"
+2730 = "Cape York"
+2729 = "Cape Arnhem"
+2728 = "Darwin"
+2727 = "Albany"
+1084 = "Perth"
+
+#New Zealand
+2738 = "Christchurch"
+1109 = "Dunedin"
+1246 = "Invercargill"
+1107 = "Wellington"
+1106 = "Auckland"
+2739 = "Hamilton"
+1108 = "Gisborne"
+2737 = "Hastings"
