@@ -7,6 +7,8 @@
 
 28 = "Nylandia" #Nyland
 73 = "Tirolo" #Tirol
+88 = "Artesia" #Artois
+89 = "Piccardia" #Picardy
 128 = "Carinzia" #Karnten
 129 = "Carniola" #Krain
 131 = "Zagabria" #Zagreb
@@ -29,10 +31,25 @@
 163 = "Candia" #Crete
 164 = "Nasso" #Naxos
 165 = "Berna" #Bern
+167 = "Rouen" #Caux
+168 = "Caen" #Kaen
+169 = "Armorica" #Armor
+170 = "Finisterra" #Finstere
+171 = "Vannes" #Vannetais
+172 = "Nantes" #Nantes
 173 = "Lapurdi" #Labourd
 174 = "Aquitania" #Aquitaine
+178 = "Angio" #Anjou
 180 = "Alto Poitou" #Haut Poitou
+183 = "Parigi" #Paris
+184 = "Orleanese" #Orleans
+187 = "Bar" #Barrois
+188 = "Tre Vescovadi" #Trois Eveches
+189 = "Lorena" #Lorraine
 190 = "Borbonese" #Bourbonnais
+191 = "Niverno" #Nevers
+192 = "Digione" #Dijon(nais)
+193 = "Franca-Contea" #Franche-Comte
 195 = "Limosino" #Limousin
 196 = "Tolosa" #Toulouse
 197 = "Rossiglione" #Roussillion
@@ -84,6 +101,7 @@
 1230 = "Massaua" #Massawa
 1306 = "San Tommaso" #Sao Tome
 1318 = "Zips" #Szepes
+1743 = "Cambrai" #Cambresis
 1749 = "Cadice" #Cádiz
 1756 = "Bessarabia" #Basarabia
 1765 = "Serdonpoli" #(From the Greek Serdonpolis) Sofia
@@ -98,6 +116,7 @@
 1869 = "Zurigo" #Zurich
 1870 = "San Gallo" #St. Gallen
 1873 = "Grigoni" #Grabunden
+1877 = "Charolese" #Charolais
 1882 = "Bona" #Annaba
 1953 = "Debrecen" #Szabolcs
 1954 = "Torontal" #Torontal
@@ -147,7 +166,9 @@
 4236 = "Trencin" #Trencsin
 4239 = "Belgrado" #Belgrade
 4240 = "Albareale" #Fejer
+4384 = "Rennes" #Rennais
 4386 = "Basso Poitou" #Bas Poitou
+4389 = "Turenna" #Tours
 4391 = "Vivarese" #Vivarais
 4409 = "Trinquilimala" #Trincomalee
 4415 = "Negapatan" #Nagapattinam
