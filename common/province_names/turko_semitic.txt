@@ -63,8 +63,11 @@
 2755 = "Madinat Salim"
 
 337 = "Wahran" #Oran
+338 = "Mutija" #Mitidja
+340 = "Qusantinah" #Constantine
 344 = "Murrakush" #Marrakesh
 351 = "Tibeskert" #Biskra
+353 = "Tatawin" #Tatouaine
 354 = "Tarabulus" #Tripoli (Libya)
 534 = "Qaliqut" #Calicut
 572 = "Kalanpu" #Kotte
@@ -75,6 +78,10 @@
 2394 = "Kalahbar" #Calabar 
 2448 = "Murzuq" #Murzuk/Fezzan
 2449 = "Al Jufrah" #Jufra
+2453 = "Sfaqes" #Sfax
+2455 = "Benzart" #Bizerte
 2456 = "Tuqurt" #Tugurt/Touggourt
+2473 = "Susa" #Sousse
 2464 = "Warzazat" #Ouarzazate
 2954 = "Jirba" #Djerba
+4566 = "Qeirwan' #Kairwan

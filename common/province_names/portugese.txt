@@ -91,6 +91,10 @@
 2999 = "Ormuz" 
 
 337 = "Orã" #Oran
+339 = "Cabília" #Kabylia
+340 = "Constantina" #Constantine
+341 = "Tunes" #Tunis
+348 = "Suz" #Sus
 534 = "Calicut" #Kozhikode
 535 = "Cochin" #Kochi
 536 = "Madure" #Madurai
@@ -103,11 +107,17 @@
 2100 = "Jaffnapatao" #Jaffna
 2448 = Murzuque" #Murzuk
 2450 = "Gadamès" #Ghadames
+2452 = "Zuara" #Zuwarah
+2455 = "Bizarta" #Bizerte
 2456 = "Tugurte" #Touggourt/Tugurt
+2466 = "Drá"
+2469 = "Doukkala" #Dukkala
 2472 = "Uargla" #Ouargla/Wargla
+2473 = "Susa" #Sousse
 4413 = "Cananor" #Kannur
 4416 = "Trincumbar" #Tranqebar
 4475 = "Fatiabas" #Fathabad
 4477 = "Porto Pequeno" #Satgaon
 4564 = "Casabranca" #Anfa
+4566 = "Cairuão" #Kairwan
 4567 = "Saba" #Sabha

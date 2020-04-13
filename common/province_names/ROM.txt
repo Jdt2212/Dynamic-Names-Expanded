@@ -254,7 +254,7 @@
 1882 = "Hippo Regius"
 2450 = "Cydamus"
 2451 = "Thubactis"
-2453 = "Thaenae"
+2453 = "Taparura"
 2454 = "Sicca Veneria"
 2455 = "Hippo Diarrhytus"
 2459 = "Media"

@@ -4,12 +4,19 @@
 337 = "Wehran"
 
 335 = "Mlilt" #Melilla
+338 = "Mettijet" #Mitidja
 344 = "Amurakuc" #Marrakesh
 349 = "Ifyyey" #Figuig
+353 = "Tittawin" #Tatouaine
 1751 = "Sebta" #Ceuta
+1882 = "Aânavaen" #Annaba
+2452 = "Zwara" #Zuwarah
+2453 = "Sifaks" #Sfax
 2457 = "Aghlan" #Mzab
 2459 = "Tittri" #Titteri
 2462 = "Warsnis" #Ouarsenis
 2465 = "Wejda" #Oujda
 2467 = "Amknas" #Meknes
+2473 = "Susa" #Sousse
 4561 = "Tittawin" #Tétouan
+4568 = "Demnat" #Demnate

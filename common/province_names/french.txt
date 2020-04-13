@@ -301,6 +301,8 @@
 343 = "Fès" #Fez
 344 = "Marrakech" #Marrakesh
 346 = "Tafilalet" #Tafilalt
+348 = "Souss" #Sus
+355 = "Syrte" #Sirte
 534 = "Calicut" #Kozhikode
 535 = "Cochin" #Koch
 536 = "Madure" #Madura
@@ -313,8 +315,12 @@
 2448 = "Mourzouq" #Murzuk
 2449 = "Al Djoufrah" #Jufra
 2450 = "Ghadamès" #Ghadames
+2452 = "Zouara" #Zuwarah
 2456 = "Touggourt" #Tugurt/Touggourt
+2458 = "Le Hodna" #Hodna
+2466 = "Drâa" #Draa
 2467 = "Meknès" #Meknes
+2469 = "Doukkala" #Dukkala
 2472 = "Ouargla" #Wargla/Ouargla
 4409 = "Trinquilemale" #Trincomalee
 4410 = "Cap de Comori" #Kanyakumari
@@ -322,6 +328,7 @@
 4415 = "Negapatan" #Nagapattinam
 4416 = "Trangabar" #Tharangambadi
 4417 = "Congervaram" #Kanchipuram
-4562 = "Mers-el Kebir" #Mers El Kebir (accent mark not availlable)
+4562 = "Mers-el Kebir" #Mers El Kebir 
 4564 = "Casablanca" #Anfa
+4566 = "Kairouan" #Kairwan
 4567 = "Sebha" #Sabha
