@@ -297,6 +297,10 @@
 2753 = "Narbonnais"
 3003 = "Negroponte"
 
+334 = "Tanger" #Tangiers
+343 = "Fès" #Fez
+344 = "Marrakech" #Marrakesh
+346 = "Tafilalet" #Tafilalt
 534 = "Calicut" #Kozhikode
 535 = "Cochin" #Koch
 536 = "Madure" #Madura
@@ -306,10 +310,18 @@
 2084 = "Yanam" #Puducherry
 2099 = "Candea" #Kandy
 2100 = "Janapatan" #Jaffna
+2448 = "Mourzouq" #Murzuk
+2449 = "Al Djoufrah" #Jufra
+2450 = "Ghadamès" #Ghadames
+2456 = "Touggourt" #Tugurt/Touggourt
+2467 = "Meknès" #Meknes
+2472 = "Ouargla" #Wargla/Ouargla
 4409 = "Trinquilemale" #Trincomalee
 4410 = "Cap de Comori" #Kanyakumari
 4413 = "Cananor" #Kannur
 4415 = "Negapatan" #Nagapattinam
 4416 = "Trangabar" #Tharangambadi
 4417 = "Congervaram" #Kanchipuram
+4562 = "Mers-el Kebir" #Mers El Kebir (accent mark not availlable)
 4564 = "Casablanca" #Anfa
+4567 = "Sebha" #Sabha

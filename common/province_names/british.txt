@@ -242,7 +242,7 @@
 
 #Australia
 
-1085 = "Tasmania"
+1085 = "Tasmania" #Parerederme
 1087 = "Melbouurne"
 2734 = "Cape Howe"
 1090 = "Sydney

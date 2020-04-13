@@ -90,6 +90,7 @@
 2469 = "Mazagão"
 2999 = "Ormuz" 
 
+337 = "Orã" #Oran
 534 = "Calicut" #Kozhikode
 535 = "Cochin" #Kochi
 536 = "Madure" #Madurai
@@ -100,8 +101,13 @@
 1248 = "Maldiva" #Maldives
 2099 = "Candea" #Kandy
 2100 = "Jaffnapatao" #Jaffna
+2448 = Murzuque" #Murzuk
+2450 = "Gadamès" #Ghadames
+2456 = "Tugurte" #Touggourt/Tugurt
+2472 = "Uargla" #Ouargla/Wargla
 4413 = "Cananor" #Kannur
 4416 = "Trincumbar" #Tranqebar
 4475 = "Fatiabas" #Fathabad
 4477 = "Porto Pequeno" #Satgaon
 4564 = "Casabranca" #Anfa
+4567 = "Saba" #Sabha

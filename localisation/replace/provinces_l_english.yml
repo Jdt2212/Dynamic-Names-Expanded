@@ -1,5 +1,6 @@
 ﻿l_english:
-#India/Pakistan/Bangladesh/Nepal/Sri Lanka 
+ PROV334: "Marrakesh"
+ PROV_ADJ334: "Marrakeshi"
  PROV515: "Junagadh"
  PROV_ADJ515: "Junagadhi"
  PROV516: "Vadodara"
@@ -64,6 +65,12 @@
  PROV_ADJ2094: "Bahraichi"
  PROV2100: "Jaffna"
  PROV_ADJ2100: "Jaffna"
+ PROV2448: "Murzuk"
+ PROV_ADJ2448: "Murzuk"
+ PROV2456: "Tugurt"
+ PROV_ADJ2456: "Tugurtian"
+ PROV2472: "Wargla"
+ PROV_ADJ2472: "Warglan"
  PROV4413: "Kannur"
  PROV_ADJ4413: "Kannuri"
  PROV4415: "Nagapattinam"
@@ -82,6 +89,8 @@
  PROV_ADJ4475: "Fatehadbadi"
  PROV4495: "Faizabad"
  PROV_ADJ4495: "Faizabadi"
+ PROV4562:0 "Mers El Kébir"
+ PROV_ADJ4562:0 "Mers El Kébir"
 
 
 #Burma

@@ -47,7 +47,7 @@
 1849 = "Hamah"	
 1855 = "Sayda"
 1746 = "Qila"
-1751 = "Sebtah"
+1751 = "Sabtah"
 1851 = "Qulumriya"
 2313 = "Antakiya"
 2315 = "as-Suways"
@@ -62,10 +62,19 @@
 2754 = "Al-Mansha"
 2755 = "Madinat Salim"
 
+337 = "Wahran" #Oran
+344 = "Murrakush" #Marrakesh
+351 = "Tibeskert" #Biskra
+354 = "Tarabulus" #Tripoli (Libya)
 534 = "Qaliqut" #Calicut
+572 = "Kalanpu" #Kotte
 597 = "Jauhar" #Johor
-572 = "Kalanpu" 
 652 = "Majindenao" #Maguindanao
 1201 = "Zinjibar" #Zanzibar
 1248 = "Dibiyat" #Maldives
-2394 = "Kalahbar" #Calabar
+2394 = "Kalahbar" #Calabar 
+2448 = "Murzuq" #Murzuk/Fezzan
+2449 = "Al Jufrah" #Jufra
+2456 = "Tuqurt" #Tugurt/Touggourt
+2464 = "Warzazat" #Ouarzazate
+2954 = "Jirba" #Djerba

@@ -221,11 +221,22 @@
 500 = "San Vicente"
 501 = "Barbado"
 
-
+337 = "Orán" #Oran
+334 = "Tánger" #Tangiers
+346 = "Tafilalet" #Tafilalt
 656 = "Manila" #Maynila
+2449 = "Al Jufrah" #Jufra
+2450 = "Gadamès" #Ghadames
+2456 = "Tuggurt" #Tugurt/Touggourt
+2464 = "Uarzazate" #Ouarzazate
+2465 = "Uchda" #Oujda
+2467 = "Mequinez" #Meknes
+2472 = "Uargla" #Ouargla/Wargla
 2698 = "San Carlos" #Pangasinan
 2699 = "Bicol" #Bikol
 2700 = "Panay" #Aninipay
+2954 = "Yerba"
 4352 = "Cebu" #Singhpala
 4561 = "Tetuàn" #Tétouan
+4562 = "Mazalquivir" #Mers El Kébir
 4564 = "Casablanca" #Anfa
