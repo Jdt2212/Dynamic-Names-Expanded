@@ -221,6 +221,7 @@
 500 = "San Vicente"
 501 = "Barbado"
 
+206 = "La Coruña" #A Coruña
 334 = "Tánger" #Tangiers
 337 = "Orán" #Oran
 339 = "Cabilia" #Kabylia

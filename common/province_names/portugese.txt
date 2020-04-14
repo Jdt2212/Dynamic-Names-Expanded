@@ -13,8 +13,8 @@
 165 = "Berna"
 197 = "Rossilhão"
 205 = "Savoia"
-206 = "Galiza"
-207 = "Asturias"
+206 = "Corunha"
+207 = "Astúrias"
 208 = "Leão"
 211 = "Pirinéus"
 212 = "Girona"
@@ -118,6 +118,8 @@
 4416 = "Trincumbar" #Tranqebar
 4475 = "Fatiabas" #Fathabad
 4477 = "Porto Pequeno" #Satgaon
+4553 = "Samora" #Zamora
+4558 = "Ourense" #Orense
 4564 = "Casabranca" #Anfa
 4566 = "Cairuão" #Kairwan
 4567 = "Saba" #Sabha

@@ -191,7 +191,7 @@
 1934 = "Lucanie"
 
 197 = "Roussillon"
-206 = "Galice"
+206 = "La Corogne"
 207 = "Asturies"
 208 = "León"
 211 = "Pyrénées"

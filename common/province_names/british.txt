@@ -172,6 +172,7 @@
 2671 = "Ronde"
 
 #India
+224 = "Seville"
 503 = "Cutch" #Kutch
 516 = "Baroda" #Vadodara
 523 = "Lucknow" #Lakhnau
@@ -202,6 +203,7 @@
 600 = "Ayuthia" #Ayutthaya
 614 = "Viengchang" #Vientiane
 676 = "Shigatze" #Shigatse
+1085 = "Tasmania" #Parerederme
 2026 = "Tanjore" #Thanjavur
 2031 = "Bangalore" #Ben
 2034 = "Poona" #Pune
@@ -242,8 +244,7 @@
 
 #Australia
 
-1085 = "Tasmania" #Parerederme
-1087 = "Melbouurne"
+1087 = "Melbourne"
 2734 = "Cape Howe"
 1090 = "Sydney
 2735 = "Portland"

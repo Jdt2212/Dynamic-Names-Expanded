@@ -77,7 +77,7 @@
 215 = "Valdoletum"
 216 = "Salmantica"
 217 = "Matritum"
-218 = "Emerita Augusta" #Can't find latin name for Badajoz, so went with nearby Merida
+218 = "Civitas Pacensis"
 219 = "Toletum"
 220 = "Valentia"
 223 = "Granata"
@@ -337,5 +337,9 @@
 
 1233 = "Oasis Magna" #Kharga
 4512 = "Bargosa" #Bharuch
+4548 = "Onoba" #Huelva
+4554 = "Lucus Augusti" #Lugo
+4558 = "Auria" #Orense
 4562 = "Portus Divinus" #Mers el Kebir
 4563 = "Sala Colonia" #Salé
+4566 = "Ocellodurum" #Zamora

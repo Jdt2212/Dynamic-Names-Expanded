@@ -1,4 +1,6 @@
 ﻿l_english:
+ PROV206: "A Coruña"
+ PROV_ADJ206: "Galician"
  PROV334: "Marrakesh"
  PROV_ADJ334: "Marrakeshi"
  PROV355: "Sirte"
@@ -47,6 +49,8 @@
  PROV_ADJ567: "Srihatti"
  PROV573: "Kachar"
  PROV_ADJ573: "Kachari"
+ PROV1747: "Cáceres"
+ PROV_ADJ1747: "Extremaduran"
  PROV2026: "Thanjavur"
  PROV_ADJ2026: "Thanjavuri"
  PROV2029: "Madikeri"
