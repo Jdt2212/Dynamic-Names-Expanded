@@ -203,7 +203,22 @@
 600 = "Ayuthia" #Ayutthaya
 614 = "Viengchang" #Vientiane
 676 = "Shigatze" #Shigatse
+1084 = "Perth" #Wadjuk
 1085 = "Tasmania" #Parerederme
+1086 = "Adelaide" #Wergaia
+1087 = "Melbourne" #Wurundjeri
+1088 = "Werracknebeal" #Kaurna
+1089 = "Wellington Valley" #Wiradjuri
+1090 = "Sydney #Eora
+1091 = "Tamworth" #Kamilaroi
+1092 = "Ballina" #Bundjalung
+1093 = "Toowoomba #Barunggam
+1094 = "Brisbane" #Turrbal
+1106 = "Auckland" #Whangarei
+1107 = "Wellington" #Taranaki
+1108 = "Gisborne" #Tauranga
+1109 = "Dunedin" #Timaru
+1246 = "Invercargill" #Waihopai
 2026 = "Tanjore" #Thanjavur
 2031 = "Bangalore" #Ben
 2034 = "Poona" #Pune
@@ -220,6 +235,19 @@
 2387 = "Petchaburi" #Phetchaburi
 2396 = "Mogaung" #Mong Kawng
 2398 = "Hsawnghsup" #Thaungdut
+2727 = "Albany" #Minang 
+2728 = "Darwin" #Tiwi
+2729 = "Cape Arnhem" #Yolngu
+2730 = "Cape York" #Awngthim
+2731 = "Cooktown" #Guugu Yimithirr
+2732 = "Townsville" #Wulgurukaba
+2733 = "Gladstone" #Baiali
+2734 = "Cape Howe" #Yuin
+2735 = "Portland" #Gunditjmara
+2736 = "Port Pirie" #Nukunu
+2737 = "Hastings" #Ahuriri
+2738 = "Christchurch" #Waitaha
+2739 = "Hamilton" #Kirikiriroa
 4328 = "Chaghai" #Chagai
 4410 = "Cape Comorin" #Kanyakumari
 4413 = "Cannanore" #Kannur
@@ -241,36 +269,3 @@
 4495 = "Fyzabad" #Faizabad
 4509 = "Kahror" #Karur
 4512 = "Broach" #Bharuch
-
-#Australia
-
-1087 = "Melbourne"
-2734 = "Cape Howe"
-1090 = "Sydney
-2735 = "Portland"
-1089 = "Wellington Valley"
-1088 = "Werracknebeal"
-1086 = "Adelaide"
-2736 = "Port Pirie"
-1092 = "Ballina"
-1091 = "Tamworth"
-1094 = "Brisbane"
-1093 = "Toowoomba
-2733 = "Gladstone"
-2732 = "Townsville"
-2731 = "Cooktown"
-2730 = "Cape York"
-2729 = "Cape Arnhem"
-2728 = "Darwin"
-2727 = "Albany"
-1084 = "Perth"
-
-#New Zealand
-2738 = "Christchurch"
-1109 = "Dunedin"
-1246 = "Invercargill"
-1107 = "Wellington"
-1106 = "Auckland"
-2739 = "Hamilton"
-1108 = "Gisborne"
-2737 = "Hastings"
