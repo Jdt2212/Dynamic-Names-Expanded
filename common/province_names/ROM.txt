@@ -87,7 +87,7 @@
 227 = "Olisipo"
 228 = "Viso"
 229 = "Ebora"
-230 = "Ossonoba"
+230 = "Cyneticum"
 231 = "Portus Cale"
 232 = "Brigantia"
 366 = "Canaria Insulae"
@@ -334,7 +334,7 @@
 161 = "Targoviste"
 1756 = "Moesia"
 
-
+1226 = "Pax Julia" #Beja
 1233 = "Oasis Magna" #Kharga
 4512 = "Bargosa" #Bharuch
 4548 = "Onoba" #Huelva
