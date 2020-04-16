@@ -101,7 +101,7 @@
 
 2003 = "Kootenai"
 2007 = "Les Cedres"
-2012 = "Memphremagog"
+2012 = "Sherbrooke"
 2013 = "Casco"
 2016 = "Great Forks"
 2017 = "Edmonton"
@@ -150,7 +150,7 @@
 2569 = "Halifax"
 2570 = "St. John"
 2572 = "Campbelton"
-2574 = "Nain"
+2574 = "Nunatsiavut"
 2577 = "Seven Islands"
 2580 = "Wemotaci"
 2582 = "Rimouski"
@@ -171,8 +171,8 @@
 2670 = "Toronto"
 2671 = "Ronde"
 
-#India
-224 = "Seville"
+
+224 = "Seville" #Sevilla
 503 = "Cutch" #Kutch
 516 = "Baroda" #Vadodara
 523 = "Lucknow" #Lakhnau
@@ -203,6 +203,7 @@
 600 = "Ayuthia" #Ayutthaya
 614 = "Viengchang" #Vientiane
 676 = "Shigatze" #Shigatse
+997 = "Happy Valley" #Chisedec
 1084 = "Perth" #Wadjuk
 1085 = "Tasmania" #Parerederme
 1086 = "Adelaide" #Wergaia
@@ -235,6 +236,8 @@
 2387 = "Petchaburi" #Phetchaburi
 2396 = "Mogaung" #Mong Kawng
 2398 = "Hsawnghsup" #Thaungdut
+2575 = "Hopedale" #Naskapi
+2583 = "Les Etchemins" #Etchemins
 2727 = "Albany" #Minang 
 2728 = "Darwin" #Tiwi
 2729 = "Cape Arnhem" #Yolngu

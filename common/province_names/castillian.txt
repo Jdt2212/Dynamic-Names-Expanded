@@ -230,6 +230,7 @@
 342 = "Garb" #Gharb
 346 = "Tafilalet" #Tafilalt
 656 = "Manila" #Maynila
+1095 = "Islas Malvinas" #The Falklands
 2449 = "Al Jufrah" #Jufra
 2450 = "Gadamès" #Ghadames
 2452 = "Zuara" #Zuwarah

@@ -16,6 +16,7 @@
 206 = "Corunha"
 207 = "Astúrias"
 208 = "Leão"
+209 = "Biscaia"
 211 = "Pirinéus"
 212 = "Girona"
 213 = "Barcelona"
@@ -30,6 +31,7 @@
 224 = "Sevilha"
 225 = "Córdoba"
 226 = "Gibraltar"
+239 = "Glócester"
 333 = "Ilhas Baleares"
 334 = "Tânger"
 344 = "Marraquexe"
@@ -90,6 +92,16 @@
 2469 = "Mazagão"
 2999 = "Ormuz" 
 
+233 = "Cornualha" #Cornwall
+235 = "Câncio" #Kent
+236 = "Londres" #London
+237 = "Oxónia" #Oxford
+238 = "Éssex" #Essex
+244 = "Lencastre" #Lancashire
+245 = "Iorque" #York
+246 = "Nortúmbria" #Northumberland
+247 = "Cúmbria" #Cumbria
+248 = "Edimburgo" #Lothian/Edinburgh
 337 = "Orã" #Oran
 339 = "Cabília" #Kabylia
 340 = "Constantina" #Constantine
@@ -102,6 +114,8 @@
 540 = "Sao Tome" #Saint Thomas (India)
 568 = "Porto Grande" #Chittagong
 572 = "Colombo" #Kotte
+635 = "Timor-Ocidental"
+1172 = "Benguela-a-Velha" #Benguela
 1248 = "Maldiva" #Maldives
 2099 = "Candea" #Kandy
 2100 = "Jaffnapatao" #Jaffna
@@ -110,16 +124,22 @@
 2452 = "Zuara" #Zuwarah
 2455 = "Bizarta" #Bizerte
 2456 = "Tugurte" #Touggourt/Tugurt
-2466 = "Drá"
+2466 = "Drá" #Draa
 2469 = "Doukkala" #Dukkala
 2472 = "Uargla" #Ouargla/Wargla
 2473 = "Susa" #Sousse
+3695 = "Timor-Leste" #East Timor
+4370 = "Cantabrígia" #Cambridgeshire
+4372 = "Convêntria" #Coventry
+4375 = "Céstria" #Cheshire
 4413 = "Cananor" #Kannur
 4416 = "Trincumbar" #Tranqebar
 4475 = "Fatiabas" #Fathabad
 4477 = "Porto Pequeno" #Satgaon
+4552 = "Palência" #Palencia
 4553 = "Samora" #Zamora
 4558 = "Ourense" #Orense
+4559 = "Menorca" #Minorca
 4564 = "Casabranca" #Anfa
 4566 = "Cairuão" #Kairwan
 4567 = "Saba" #Sabha

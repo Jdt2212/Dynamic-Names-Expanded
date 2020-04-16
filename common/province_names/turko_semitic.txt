@@ -62,6 +62,7 @@
 2754 = "Al-Mansha"
 2755 = "Madinat Salim"
 
+335 = "Mililia" #Melilla
 337 = "Wahran" #Oran
 338 = "Mutija" #Mitidja
 340 = "Qusantinah" #Constantine

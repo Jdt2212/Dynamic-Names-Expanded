@@ -1,8 +1,3 @@
-336 = "Tala Imsan"
-339 = "Tamurt Leqbayel" 
-354 = "Trables"
-337 = "Wehran"
-
 335 = "Mlilt" #Melilla
 338 = "Mettijet" #Mitidja
 344 = "Amurakuc" #Marrakesh
