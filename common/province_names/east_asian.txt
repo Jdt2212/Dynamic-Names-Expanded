@@ -85,7 +85,8 @@
 597 = "Pili" #Johor
 637 = "Api" #Jesselton
 652 = "Minto-lang" #Maguindanao
-656 = "Mali-lu"
+655 = "Palau-ye"
+656 = "Mali-lu" #Malacca
 2698 = "Fengjiashilan" #Pangasinan
 2702 = "Puotuan" #Butuan
 4350 = "Mayi" #Mindoro/Ma-i
