@@ -6,4 +6,5 @@
 656 = "Selurong" #Maynila
 2386 = "Jayabumi" #Chaiyaphum
 2700 = "Madja-as"  #Panay
+4348 = "Igorot" #Ifugao
 4352 = "Singapura" #Cebu/Singhapala

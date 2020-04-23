@@ -229,7 +229,9 @@
 341 = "Túnez" #Tunis
 342 = "Garb" #Gharb
 346 = "Tafilalet" #Tafilalt
+655 = "Paragua" #Palawan
 656 = "Manila" #Maynila
+658 = "Cagayan" #Catagayan
 1095 = "Islas Malvinas" #The Falklands
 2449 = "Al Jufrah" #Jufra
 2450 = "Gadamès" #Ghadames
@@ -246,7 +248,9 @@
 2699 = "Bicol" #Bikol
 2700 = "Panay" #Aninipay
 2954 = "Yerba"
+4348 = "Igorot" #Ifugao
 4352 = "Cebu" #Singhpala
+4355 = "Caraga" #Kalagan
 4561 = "Tetuàn" #Tétouan
 4562 = "Mazalquivir" #Mers El Kébir
 4566 = "Cairuán"

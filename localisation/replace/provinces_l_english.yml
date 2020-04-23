@@ -51,6 +51,20 @@
  PROV_ADJ567: "Srihatti"
  PROV573: "Kachar"
  PROV_ADJ573: "Kachari"
+ PROV586: "Bago"
+ PROV_ADJ586: "Bagoan"
+ PROV591: "Thawai"
+ PROV_ADJ591: "Thawaian"
+ PROV594: "Patani"
+ PROV_ADJ594: "Patani"
+ PROV628: "Trowulan"
+ PROV_ADJ628: "Surabayan"
+ PROV637: "Api-Api"
+ PROV_ADJ637: "Api-Api" 
+ PROV656: "Maynila"
+ PROV_ADJ656: "Maynilan"
+ PROV658: "Catagayan"
+ PROV_ADJ658: "Catagayan" 
  PROV1747: "Cáceres"
  PROV_ADJ1747: "Extremaduran"
  PROV1749: "Cádiz"
@@ -81,6 +95,18 @@
  PROV_ADJ2456: "Tugurtian"
  PROV2472: "Wargla"
  PROV_ADJ2472: "Warglan"
+ PROV2704: "Maling"
+ PROV_ADJ2704: "Malingan" 
+ PROV2698: "Binalatongan"
+ PROV_ADJ2698: "Binalatongan"
+ PROV2699: "Ibalong"
+ PROV_ADJ2699: "Ibalongan"
+ PROV2700: "Aninipay"
+ PROV_ADJ2700: "Aninipayan"
+ PROV4352: "Singhapala"
+ PROV_ADJ4352: "Singhapalan" 
+ PROV4355: "Kalagan"
+ PROV_ADJ4355: "Kalagan" 
  PROV4413: "Kannur"
  PROV_ADJ4413: "Kannuri"
  PROV4415: "Nagapattinam"
@@ -101,23 +127,3 @@
  PROV_ADJ4495: "Faizabadi"
  PROV4562:0 "Mers El Kébir"
  PROV_ADJ4562:0 "Mers El Kébir"
-
-
-#Burma
- PROV586: "Bago"
- PROV591: "Thawai"
- 
-#Thailand 
- PROV594: "Patani"
- 
- #Borneo
- PROV637: "Api-Api"
- PROV2704: "Maling"
-
-
-#Phillippines
- PROV656: "Maynila"
- PROV2698: "Binalatongan"
- PROV2699: "Ibalong"
- PROV2700: "Aninipay"
- PROV4352: "Singhapala"

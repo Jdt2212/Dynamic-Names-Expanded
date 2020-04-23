@@ -8,7 +8,9 @@
 588 = "Mueang Nai" #Mong Nai
 594 = "Pattani" #Patani
 597 = "Ganggayu" #Johor
+599 = "Kalantan" #Kelantan
 660 = "Sipsong Panna" #Sipsongbanna
+2393 = "Trangkanu" #Terengganu
 2394 = "Sai Buri" #Kedah
 2396 = "Mueang Kawng" #Mong Kawng
 2401 = "Mueang Pai" #Mong Pai

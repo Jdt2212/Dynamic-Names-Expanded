@@ -72,6 +72,7 @@
 354 = "Tarabulus" #Tripoli (Libya)
 534 = "Qaliqut" #Calicut
 572 = "Kalanpu" #Kotte
+595 = "Dar al-Ridwan" #Perak
 597 = "Jauhar" #Johor
 652 = "Majindenao" #Maguindanao
 1201 = "Zinjibar" #Zanzibar
