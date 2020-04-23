@@ -1,17 +1,19 @@
 ﻿l_english: 
-#Mysore
- WADIYAR: "Wadiyar"
- GRANDWADIYAR: "Grand Wadiyar"
- GREATWADIYAR: "Great Wadiyar"
- MATHA: "Matha"
- RAJAMATHA: "Rajamatha"
+#Assam
+ PHA_TITLE: "Pha"
+ SWARGADEO: "Swargadeo"
+ KUNWORI: "Kunwori"
+ BORKUNWORI: "Bor Kunwori"
+ CHARINGRAJA: "Charing Raja"
  
-#Samstkhe
- ATABEGATE: "Atabegate"
- 
-#Shirvan
- SHIRVANSHAH: "Shirvanshah"
+#Calicut
+ SAMOOTHIRI: "Samoothiri"
+ GREATSAMOOTHIRI: "Great Samoothiri"
 
+#Filipino Rajahnates
+ DAYANG: "Dayang"
+ HARA: "Hara"
+ 
 #Gazikumukh
  SHAMKHALATE: "Shamkhalate"
  GREATSHAMKHALATE: "Great Shamkhalate"
@@ -22,16 +24,31 @@
  RAO: "Rao"
  RAORAJA: "Rao Raja"
  MAHARAO: "Maharao"
+
+#Ireland
+ CLANDOM: "Clan"
+ HIGH_KINGSHIP: "High Kingdom"
+ CLAN_CHIEF: "Clan Chief"
+ RI_RULER: "Rí"
+ ARD_RI_RULER: "Ard Rí"
+ CLAN_CHIEFTESS: "Clan Chieftainess"
+ HIGH_QUEEN: "High Queen"
+ GRAND_PRINCE: "Grand Prince"
+ HIGH_PRINCE: "High Prince"
+ GRAND_PRINCESS: "Grand Princess"
+ HIGH_PRINCESS: "High Princess"
+ 
+#Iroquois     
+ IROQUOIS_CONFEDERACY: "Iroquois Confederacy"
+ TAHODAHO: "Tahodaho"
+ GREAT_TAHODAHO: "Great Tahodaho"
+ CLAN_MOTHER: "Clan Mother"
+ GRAND_CLAN_MOTHER: "Grand Clan Mother"
  
 #Jaisalmer
  RAWAL: "Rawal"
  MAHARAWAL: "Maharawal"
 
-#Mewat
- WALIEMEWAT: "Wali-e-Mewat"
- SHAHEMEWAT: "Shah-e-Mewat"
- PADISHAHEMEWAT: "Padishah-e-Mewat"
- 
 #Manipur
  NINGTHEM: "Ningthem"
  GREATNINGTHEM: "Great Ningthem"
@@ -40,21 +57,29 @@
  WANGOLNINGTHOU: "Wangol Ningthou"
  SHIJA: "Shija"
  
-#Assam
- PHA_TITLE: "Pha"
- SWARGADEO: "Swargadeo"
- KUNWORI: "Kunwori"
- BORKUNWORI: "Bor Kunwori"
- CHARINGRAJA: "Charing Raja"
+ #Mewat
+ WALIEMEWAT: "Wali-e-Mewat"
+ SHAHEMEWAT: "Shah-e-Mewat"
+ PADISHAHEMEWAT: "Padishah-e-Mewat"
+ 
+#Mysore
+ WADIYAR: "Wadiyar"
+ GRANDWADIYAR: "Grand Wadiyar"
+ GREATWADIYAR: "Great Wadiyar"
+ MATHA: "Matha"
+ RAJAMATHA: "Rajamatha"
+
  
 #Sadiya
  GAYAPAL: "Gayapal"
  GAURINARAYAN: "Gaurinarayan"
  CHATRADHARI: "Chatra-dhari"
  
-#Calicut
- SAMOOTHIRI: "Samoothiri"
- GREATSAMOOTHIRI: "Great Samoothiri"
+ #Samstkhe
+ ATABEGATE: "Atabegate"
+ 
+#Shirvan
+ SHIRVANSHAH: "Shirvanshah"
  
 #Tlaxcala
  TEUCTLI: "Teuctli"

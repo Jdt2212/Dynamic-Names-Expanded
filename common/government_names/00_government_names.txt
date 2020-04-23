@@ -2763,8 +2763,8 @@ filipino_rajanate = {
 	}
 
 	ruler_female = {
-		1 = DATU
-		2 = RANI
+		1 = DAYANG
+		2 = HARA
 		3 = MAHARANI
 	}
 

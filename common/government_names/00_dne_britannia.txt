@@ -1,0 +1,46 @@
+irish_clan_titles = {
+    rank = {
+         1 = CLANDOM
+         2 = KINGDOM
+         3 = HIGH_KINGSHIP
+    }
+    
+    ruler_male = {
+        1 = CLAN_CHIEF
+        2 = RI_RULER
+        3 = ARD_RI_RULER
+    }
+    ruler_female = {
+       1 = CLAN_CHIEFTESS
+       2 = QUEEN
+       3 = HIGH_QUEEN
+
+    consort_male = {
+        1 = CLAN_CHIEF
+        2 = RI_RULER
+        3 = ARD_RI_RULER
+    }
+    
+    consort_female = {
+        1 = QUEEN_CONSORT
+        2 = QUEEN_CONSORT
+        3 = HIGH_QUEEN_CONSORT
+    }
+    
+    heir_male = {
+        1 = PRINCE
+        2 = GRAND_PRINCE
+        3 = HIGH_PRINCE
+    }
+    
+    heir_female = {
+        1 = PRINCESS
+        2 = GRAND_PRINCESS
+        3 = HIGH_PRINCESS
+    }
+    
+    trigger = {
+        culture = irish
+        government = monarchy
+    }
+}
