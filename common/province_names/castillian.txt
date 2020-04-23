@@ -232,6 +232,7 @@
 655 = "Paragua" #Palawan
 656 = "Manila" #Maynila
 658 = "Cagayan" #Catagayan
+845 = "Campeche"
 1095 = "Islas Malvinas" #The Falklands
 2449 = "Al Jufrah" #Jufra
 2450 = "Gadamès" #Ghadames

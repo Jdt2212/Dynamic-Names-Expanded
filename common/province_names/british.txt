@@ -203,6 +203,7 @@
 600 = "Ayuthia" #Ayutthaya
 614 = "Viengchang" #Vientiane
 676 = "Shigatze" #Shigatse
+845 = "Campeachy" #Campeche/Can Pech
 997 = "Happy Valley" #Chisedec
 1084 = "Perth" #Wadjuk
 1085 = "Tasmania" #Parerederme
