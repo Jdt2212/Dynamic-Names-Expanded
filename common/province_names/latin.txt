@@ -128,6 +128,7 @@
 356 = "Bengasi" #Banghazi
 357 = "Derna" #Darnah
 358 = "Alessandria" #Alexandria/Al-Iskendriyya
+363 = "Damiata" #Damietta
 366 = "Isole Canarie" #Gran Canaria
 367 = "Azzorres" #Azores
 368 = "Madera" #Madeira
@@ -139,6 +140,7 @@
 1215 = "Taguira" #Tajura
 1227 = "Axum" #Aksum
 1230 = "Massaua" #Massawa
+1231 = "Assuan" #Aswan
 1306 = "San Tommaso" #Sao Tome
 1318 = "Zips" #Szepes
 1742 = "Alta Gheldria" #Upper Guelders
@@ -180,6 +182,7 @@
 1954 = "Torontal" #Torontal
 2024 = "Garoe" #Garoowe
 2100 = "Jafanapatan" #Jaffna
+2323 = "Deserto di Nubia" #Sahara an Nubyah
 2325 = "El Alamein" #Tarrana
 2326 = "Bardia" #Berdiyah
 2348 = "Scio" #Chios

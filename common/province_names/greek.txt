@@ -11,14 +11,18 @@
 1231 = "Syene"
 1233 = "Megale"
 2313 = "Antiocheia"
-2319 = "Lytkopolis"
+2319 = "Latopolis"
 2326 = "Petra Megale"
 2348 = "Chios"
 2343 = "Adrramyta"
 2447 = "Tamatarha"
 
-
+356 = "Hesperides" #Benghazi
+359 = "Arsinoë" #Fayyum
+360 = "Maximianopolis" #Qus
 538 = "Korevora" #Karur
 1248 = "Maniolae" #Maldives
+2317 = "Hermopolis" #Minya
 2750 = "Philippolis" #Plovdiv
+4318 = "Aphroditopolis" #Atfih
 4512 = "Bargosa" #Bharuch

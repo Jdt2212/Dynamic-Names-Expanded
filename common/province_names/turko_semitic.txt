@@ -70,6 +70,7 @@
 351 = "Tibeskert" #Biskra
 353 = "Tatawin" #Tatouaine
 354 = "Tarabulus" #Tripoli (Libya)
+359 = "el-Fayyum" #Fayyum
 534 = "Qaliqut" #Calicut
 572 = "Kalanpu" #Kotte
 595 = "Dar al-Ridwan" #Perak
@@ -77,6 +78,7 @@
 652 = "Majindenao" #Maguindanao
 1201 = "Zinjibar" #Zanzibar
 1248 = "Dibiyat" #Maldives
+2316 = "al-Gharbiyya" #Al Gharbia
 2394 = "Kalahbar" #Calabar 
 2448 = "Murzuq" #Murzuk/Fezzan
 2449 = "Al Jufrah" #Jufra
@@ -86,4 +88,5 @@
 2473 = "Susa" #Sousse
 2464 = "Warzazat" #Ouarzazate
 2954 = "Jirba" #Djerba
+4316 = "al-Sharqiya" #Sharqiya
 4566 = "Qeirwan' #Kairwan

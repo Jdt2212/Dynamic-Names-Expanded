@@ -234,6 +234,7 @@
 2093 = "Mandsaor" #Mandsaur
 2095 = "Benares" #Varanasi
 2101 = "Tinnevelly" #Tirunelveli
+2323 = "Nubian Desert" #Sahara an Nubyah
 2387 = "Petchaburi" #Phetchaburi
 2396 = "Mogaung" #Mong Kawng
 2398 = "Hsawnghsup" #Thaungdut
