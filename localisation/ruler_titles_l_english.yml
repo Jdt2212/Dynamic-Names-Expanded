@@ -13,6 +13,10 @@
 #Filipino Rajahnates
  DAYANG: "Dayang"
  HARA: "Hara"
+ BAI: "Bai" 
+ 
+#Fon
+ FON_TITLE: "Fon"
  
 #Gazikumukh
  SHAMKHALATE: "Shamkhalate"
@@ -62,6 +66,10 @@
  SHAHEMEWAT: "Shah-e-Mewat"
  PADISHAHEMEWAT: "Padishah-e-Mewat"
  
+
+#Mutapa
+ MWENEMUTAPA: "Mwenemutapa" 
+
 #Mysore
  WADIYAR: "Wadiyar"
  GRANDWADIYAR: "Grand Wadiyar"
@@ -87,3 +95,13 @@
  
 #Tarascan/Purepecha
  CAZONCI: "Cazonci" 
+ 
+#Yoruba/Oyo
+ OLU: "Olu"
+ OBA: "Oba"
+ GREAT_OBA: "Great Oba"
+ IYALOYE: "Iyaloye"
+ OLORI: "Olori"
+ AYABA: "Ayaba"
+ OMOBA: "Omoba"
+ ALAAFIN: "Alaafin"
