@@ -1,5 +1,0 @@
-28 = "Uusimaa"
-30 = "Viipuri"
-
-
-36 = "Kesoniemi" #Reval
