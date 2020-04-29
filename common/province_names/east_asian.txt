@@ -101,6 +101,7 @@
 1202 = "Manbasa" #Mombasa
 1205 = "Mugudushu" #Mogadishu
 1209 = "Bipaluo" #Berbera
+2697 = "Liusong" #Tondo
 2698 = "Fengjiashilan" #Pangasinan
 2702 = "Puotuan" #Butuan
 2794 = "Bulawa" #Barawa

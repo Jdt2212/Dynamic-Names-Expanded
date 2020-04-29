@@ -223,7 +223,7 @@
 356 = "Berenice"
 357 = "Darnis"
 359 = "Arsinoë"
-360 = "Maximianopolis"
+360 = "Diocletianopolis"
 361 = "Cairus"
 363 = "Tamiathis"
 1231 = "Syene"
@@ -334,8 +334,12 @@
 161 = "Targoviste"
 1756 = "Moesia"
 
+365 = "Rhinocorura" #Sinai
 1226 = "Pax Julia" #Beja
 1233 = "Oasis Magna" #Kharga
+2318 = "Oasis Parva" #Bahiriya
+2319 = "Latopolis" #Isna
+4318 = "Aphroditopolis" #Atfih
 4512 = "Bargosa" #Bharuch
 4548 = "Onoba" #Huelva
 4554 = "Lucus Augusti" #Lugo
